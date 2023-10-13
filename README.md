@@ -29,7 +29,6 @@ mini-embedded-projects/
   │   ├── schematics/
   │   ├── README.md
   ├── ...
-  ├── LICENSE
 ```
 
 - `project-x/`: Each project gets its own directory. You can organize your project in the way that makes the most sense to you, including documentation, code, and schematics.
